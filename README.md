@@ -38,8 +38,6 @@ style.css
 script.js
 ```
 
----
-
 ## 💡 How It Works
 
 * Users input numbers using buttons
