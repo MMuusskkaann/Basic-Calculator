@@ -43,7 +43,6 @@ script.js
 * Users input numbers using buttons
 * JavaScript processes the operations
 * Results are displayed instantly
-
 ---
 
 ## 📌 Future Improvements
